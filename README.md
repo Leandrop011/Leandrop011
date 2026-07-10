@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Leandro Pozo
 
-<!--
-**Leandrop011/Leandrop011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineering student at **UDLA** (Quito, Ecuador) focused on **mobile development with Flutter** and **backend APIs with NestJS & .NET**.
 
-Here are some ideas to get you started:
+- Portfolio: [leandro-pozo.up.railway.app](https://leandro-pozo.up.railway.app)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+
+**Mobile:** Flutter · Dart · Riverpod · GoRouter
+**Backend:** NestJS · TypeScript · ASP.NET Core MVC · C#
+**Databases:** PostgreSQL · SQL Server
+**DevOps & Tools:** Docker · Railway · Neon · Git · VS Code
+
+## Featured Projects
+
+| Project | Description | Stack |
+|---------|-------------|-------|
+| [Movie_DO](https://github.com/Leandrop011/Movie_DO) | Movie browsing app powered by the TMDB API, with trailers and quick actions | Flutter · Riverpod · GoRouter |
+| [CompassGo](https://github.com/Leandrop011/CompassGo) | Compass and navigation app with themed skins | Flutter · Riverpod |
+
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/jordan-pozo-dev/) · jordanspozo@gmail.com
