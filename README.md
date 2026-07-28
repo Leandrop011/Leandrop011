@@ -14,9 +14,10 @@ Software Engineering student at **UDLA** (Quito, Ecuador) focused on **mobile de
 ## Featured Projects
 
 | Project | Description | Stack |
-|---------|-------------|-------|
+|---|---|---|
 | [Movie_DO](https://github.com/Leandrop011/Movie_DO) | Movie browsing app powered by the TMDB API, with trailers and quick actions | Flutter · Riverpod · GoRouter |
 | [CompassGo](https://github.com/Leandrop011/CompassGo) | Compass and navigation app with themed skins | Flutter · Riverpod |
+| [Calcu Note](https://github.com/Leandrop011/calcu_note) | Grade calculator for university students: track partials and know what you need to pass | Flutter · Riverpod |
 
 ## Contact
 
