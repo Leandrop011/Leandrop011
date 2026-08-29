@@ -19,7 +19,7 @@ Software Engineering student at **UDLA** (Quito, Ecuador) focused on **mobile de
 | [Movie_DO](#) | Movie browsing app powered by the TMDB API, with trailers and quick actions | Flutter · Riverpod · GoRouter |
 | [CompassGo](#) | Compass and navigation app with themed skins | Flutter · Riverpod |
 | [Calcu Note](#) | Grade calculator for university students: track partials and know what you need to pass | Flutter · Riverpod |
-| [Velora AI](https://github.com/Leandrop011/Velora-AI) | AI chatbot app featuring Vel, a conversational assistant, with real-time chat and message history | Flutter · Riverpod · NestJS |
+| [Velora AI](https://github.com/Leandrop011/Velora-AI) | AI chatbot app featuring Velora, a conversational assistant, with real-time chat and message history | Flutter · Riverpod · NestJS |
 
 ## Contact
 
