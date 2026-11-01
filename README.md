@@ -31,12 +31,6 @@ I build complete products: mobile apps with **Flutter**, web apps with **Angular
 | [**Loopy**](https://loopydo.netlify.app/) | GIF discovery web app powered by the Giphy API, with search, trending GIFs, infinite scroll, persisted search history and unit tests. | Angular · TypeScript · Tailwind · Vitest |
 | [**Poke API Nest**](https://github.com/Leandrop011/poke-api-nest) | REST API with full CRUD, flexible search by id, name or Pokédex number, pagination, DTO validation and data seeding. Dockerized for development and production. | NestJS · MongoDB · Mongoose · Docker |
 
-## GitHub Stats
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leandrop011&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="160" />
-</p>
-
 ## Contact
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white)](https://leandro-pozo.up.railway.app)
