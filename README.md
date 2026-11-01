@@ -1,26 +1,44 @@
 # Hi, I'm Leandro Pozo
 
-Software Engineering student at **UDLA** (Quito, Ecuador) focused on **mobile development with Flutter** and **backend APIs with NestJS**.
+**Junior Full Stack Developer** · Software Engineering student at **UDLA** (Quito, Ecuador)
+
+I build complete products: mobile apps with **Flutter**, web apps with **Angular** and REST APIs with **NestJS**, from the interface to the backend and the database.
 
 - Portfolio: [leandro-pozo.up.railway.app](https://leandro-pozo.up.railway.app)
+- Teaching Assistant for **Databases** at Universidad de las Américas
+- Currently learning: authentication, testing and cloud deployment for full stack apps
 
 ## Tech Stack
 
-**Mobile:** Flutter · Dart · Riverpod · GoRouter
-**Backend:** NestJS · TypeScript
-**Databases:** PostgreSQL · SQL Server · MongoDB
-**DevOps & Tools:** Docker · Railway · Neon · MongoDB Atlas · Git/GitHub
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,angular,ts,nestjs,tailwind,postgres,mongodb,docker,git,github,figma&theme=dark" alt="Tech stack" />
+</p>
+
+| Area | Technologies |
+|---|---|
+| **Mobile** | Flutter · Riverpod · GoRouter |
+| **Frontend** | Angular · TypeScript · Tailwind CSS |
+| **Backend** | NestJS · TypeScript · REST APIs |
+| **Databases** | PostgreSQL · MongoDB · SQL |
+| **DevOps & Tools** | Docker · Railway · Git / GitHub · Postman · Figma |
 
 ## Featured Projects
 
 | Project | Description | Stack |
 |---|---|---|
-| [Poke API Nest](https://github.com/Leandrop011/poke-api-nest) | REST API for Pokémon data with full CRUD, search by id/name/number, pagination and database seeding — [live demo](https://poke-api-softdo.up.railway.app) | NestJS · TypeScript · MongoDB · Mongoose · Railway |
-| [Movie_DO](#) | Movie browsing app powered by the TMDB API, with trailers and quick actions | Flutter · Riverpod · GoRouter |
-| [CompassGo](#) | Compass and navigation app with themed skins | Flutter · Riverpod |
-| [Calcu Note](#) | Grade calculator for university students: track partials and know what you need to pass | Flutter · Riverpod |
-| [Velora AI](https://github.com/Leandrop011/Velora-AI) | AI chatbot app featuring Velora, a conversational assistant, with real-time chat and message history | Flutter · Riverpod · NestJS |
+| [**Velora AI**](https://github.com/Leandrop011/Velora-AI) | AI chatbot app with context-aware conversations and AI image generation. Flutter app backed by my own NestJS API, which handles requests to Gemini through Vertex AI. | Flutter · Riverpod · NestJS · Gemini |
+| [**Movie DO**](https://github.com/Leandrop011/Movie_DO) | Movie discovery app powered by the TMDB API, with YouTube trailers, home screen quick actions and deep linking. | Flutter · Riverpod · GoRouter |
+| [**Loopy**](https://loopydo.netlify.app/) | GIF discovery web app powered by the Giphy API, with search, trending GIFs, infinite scroll, persisted search history and unit tests. | Angular · TypeScript · Tailwind · Vitest |
+| [**Poke API Nest**](https://github.com/Leandrop011/poke-api-nest) | REST API with full CRUD, flexible search by id, name or Pokédex number, pagination, DTO validation and data seeding. Dockerized for development and production. | NestJS · MongoDB · Mongoose · Docker |
+
+## GitHub Stats
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leandrop011&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="160" />
+</p>
 
 ## Contact
 
-[LinkedIn](#) · [jordanspozo@gmail.com](mailto:jordanspozo@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white)](https://leandro-pozo.up.railway.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jordan-pozo-dev)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jordanspozo@gmail.com)
