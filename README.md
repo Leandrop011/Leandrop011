@@ -1,4 +1,4 @@
-# Hi, I'm Leandro Pozo
+# Hi, I'm Leandro Pozo <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving hand" width="36" />
 
 **Junior Full Stack Developer** · Software Engineering student at **UDLA** (Quito, Ecuador)
 
