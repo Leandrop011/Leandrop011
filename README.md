@@ -27,6 +27,7 @@ I build complete products: mobile apps with **Flutter**, web apps with **Angular
 | Project | Description | Stack |
 |---|---|---|
 | [**Velora AI**](https://github.com/Leandrop011/Velora-AI) | AI chatbot app with context-aware conversations and AI image generation. Flutter app backed by my own NestJS API, which handles requests to Gemini through Vertex AI. | Flutter · Riverpod · NestJS · Gemini |
+| [**Teslo Shop**](https://github.com/Leandrop011/Teslo-Store-Backend) | E-commerce REST API for product management, with product images in a related table, JWT authentication and role-based authorization. | NestJS · TypeORM · PostgreSQL · Docker |
 | [**Movie DO**](https://github.com/Leandrop011/Movie_DO) | Movie discovery app powered by the TMDB API, with YouTube trailers, home screen quick actions and deep linking. | Flutter · Riverpod · GoRouter |
 | [**Loopy**](https://loopydo.netlify.app/) | GIF discovery web app powered by the Giphy API, with search, trending GIFs, infinite scroll, persisted search history and unit tests. | Angular · TypeScript · Tailwind · Vitest |
 | [**Poke API Nest**](https://github.com/Leandrop011/poke-api-nest) | REST API with full CRUD, flexible search by id, name or Pokédex number, pagination, DTO validation and data seeding. Dockerized for development and production. | NestJS · MongoDB · Mongoose · Docker |
